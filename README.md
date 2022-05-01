@@ -1,3 +1,4 @@
+# 如果你有任何代码相关的问题，请在issue里提问
 # High_spectrum_BIT
 北京理工大学图像分析与智能理解大作业-多方法高光谱图像分析分类
 ![QAQ](figures/architecture.png)
